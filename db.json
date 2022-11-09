@@ -2,18 +2,21 @@
    "inventories":[
       {
          "product_id":1,
+         "sku": "sku1",
          "inventory_qty":40,
          "mi_inventory_qty":60,
          "qty_updated_at":"2021-05-06T11:20:00"
       },
       {
          "product_id":2,
+         "sku": "sku2",
          "inventory_qty":400,
          "mi_inventory_qty":600,
          "qty_updated_at":"2021-05-06T11:20:00"
       },
       {
          "product_id":3,
+         "sku": "sku3",
          "inventory_qty":80,
          "mi_inventory_qty":80,
          "qty_updated_at":"2021-05-06T11:20:00"
